@@ -23,6 +23,6 @@ Include the Installation Instructions here
 <a class="anchor" id="contact"></a>
 >## Contact Information
 [Abhishek Kumar]
-[abhhcse05@gmail.com](https://twitter.com/BillGates) - gmail
+[abhkcse05@gmail.com](https://twitter.com/BillGates) - gmail
 
 
